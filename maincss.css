@@ -127,7 +127,9 @@ float: left;
 
 #firstblock {
 height: 100%
+float: left;
 }
+
 #letstalk {
 font-family: "Coiny", cursive;
 font-size: x-large;
